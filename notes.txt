@@ -5,3 +5,6 @@
 1. Vertical Layout, where items are top of each other
 2. Horizontal Layout, where items are beside each other
  - by using a combination of vertical and horizontal layouts, we can create almost anything that we see on a website. So for example, 
+
+---------- Lesson 11 : CSS Grid ----------
+CSS Grid is a CSS layout system used to arrange elements in rows and columns
