@@ -1,0 +1,25 @@
+.flexbox {
+  display: flex;  /*this makes .flexbox a Flex container
+  Its three children: itel1 item2 item3 elements i html file become flex items*/
+  flex-direction: row;  /*means arrange them horizontally*/
+}
+
+.lightblue {
+  background-color: lightblue;
+}
+
+.lightpink {
+  background-color: lightpink;
+}
+
+.item1 {
+  width: 50px;
+}
+
+.item2 {
+  flex: 1;  /*this tells Flexbox: let item2 take the remaining available space*/
+}
+
+.item3 {
+  width: 75px;
+}
