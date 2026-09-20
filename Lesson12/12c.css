@@ -1,0 +1,9 @@
+.flexbox {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;  /*this tells Flexbox: distribute the available space between the items*/
+}
+
+.lightpink {
+  background-color: lightpink;
+}
