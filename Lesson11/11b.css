@@ -1,0 +1,15 @@
+.grid {
+  display: grid;
+  grid-template-columns: 50px 1fr 75px;
+  /* fr Grid unit
+  1 fr : fr means fraction of available space, so 1fr basically means Give thus column one fraction of the remaining available space
+  the browser first given Column1 -> 50px Column3 ->75px then whatever space is leftover goes to Column2 -> 1fr */
+}
+
+.lightblue {
+  background-color: lightblue;
+}
+
+.lightpink {
+  background-color: lightpink;
+}
