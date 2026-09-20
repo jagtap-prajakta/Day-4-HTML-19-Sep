@@ -1,0 +1,7 @@
+---------- Lesson 9 : The div Element ----------
+
+---------- Lesson 10 : Nested Layouts Technique ----------
+- there are 2 types of layout :
+1. Vertical Layout, where items are top of each other
+2. Horizontal Layout, where items are beside each other
+ - by using a combination of vertical and horizontal layouts, we can create almost anything that we see on a website. So for example, 
