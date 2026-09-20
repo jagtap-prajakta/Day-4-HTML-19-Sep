@@ -8,3 +8,9 @@
 
 ---------- Lesson 11 : CSS Grid ----------
 CSS Grid is a CSS layout system used to arrange elements in rows and columns
+
+---------- Lesson 12 : Flexbox ----------
+- Flexbox is another CSS layout system, just like Grid. The main difference is that Flexbox is designed primarily for arranging items in one direction — either horizontally or vertically.
+
+- Flexbox helps you arrange elements inside a parent container.
+
