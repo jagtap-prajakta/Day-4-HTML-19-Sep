@@ -1,0 +1,21 @@
+.flexbox {
+  display: flex;  /*this tells the browser: make this element a flexbox container*/
+  flex-direction: row; /*flex-direction tells Flexbox which direction to arrange the items.
+  row means : arrange the items from left to right*/
+}
+
+.lightblue {
+  background-color: lightblue;
+}
+
+.lightpink {
+  background-color: lightpink;
+}
+
+.item1 {
+  width: 200px;
+}
+
+.item2 {
+  width: 75px;
+}
