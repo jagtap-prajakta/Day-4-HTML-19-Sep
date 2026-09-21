@@ -7,10 +7,15 @@
  - by using a combination of vertical and horizontal layouts, we can create almost anything that we see on a website. So for example, 
 
 ---------- Lesson 11 : CSS Grid ----------
+- A grid is a layout that has rows and columns
+1*2 grid : 1 row 2 columns
 CSS Grid is a CSS layout system used to arrange elements in rows and columns
+- display: grid; grid-template-columns: 100px 100px;
 
 ---------- Lesson 12 : Flexbox ----------
 - Flexbox is another CSS layout system, just like Grid. The main difference is that Flexbox is designed primarily for arranging items in one direction — either horizontally or vertically.
 
 - Flexbox helps you arrange elements inside a parent container.
 
+Difference : Grid and Flexbox
+Grid = rigid layout          Flexbox = flexible layout
